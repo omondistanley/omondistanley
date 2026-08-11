@@ -37,7 +37,7 @@ Computer Science graduate from **Columbia University** who builds systems that t
 | 🧠 [**About**](./docs/ABOUT.md) | My design philosophy and approach to building systems |
 | 🛠️ [**Tech Stack**](./docs/TECH_STACK.md) | Languages, frameworks, AI/ML tools, and infrastructure I work with |
 | 🚀 [**Featured Work**](./docs/FEATURED_WORK.md) | Detailed look at 6+ projects (Roam, Pocketii, CITV, MistralMoE, etc.) |
-| 💼 [**Experience**](./docs/EXPERIENCE.md) | Roles at Columbia DAPLab, Oracle, Sachi Health, and research |
+| 💼 [**Experience**](./docs/EXPERIENCE.md) | Roles at Columbia University, Oracle, Sachi Health, and research |
 | 🎓 [**Programs & Training**](./docs/PROGRAMS_AND_TRAINING.md) | Communities, certifications, and leadership programs |
 
 ---
